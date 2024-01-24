@@ -5,6 +5,13 @@
 
 
 #function to calculate sum or product
+
 #if-else statement for the condition
+
 #assign variables for given 1 and given 2
+first_given1 = 20
+second_given1 = 30
+first_given2 = 40
+second_given2 = 30
+
 #print the results
