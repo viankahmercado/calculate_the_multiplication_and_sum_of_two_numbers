@@ -5,8 +5,13 @@
 
 
 #function to calculate sum or product
-
+def check_product_or_sum(first_number, second_number):
+    product = first_number * second_number
 #if-else statement for the condition
+    if product <= 1000:
+        return product
+    else:
+        return (first_number + second_number)
 
 #assign variables for given 1 and given 2
 first_given1 = 20
