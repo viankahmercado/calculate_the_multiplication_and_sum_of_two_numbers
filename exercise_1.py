@@ -20,3 +20,7 @@ first_given2 = 40
 second_given2 = 30
 
 #print the results
+result = check_product_or_sum(first_given1, second_given1)
+print("Given 1:", "\nThe result is ", result)
+result = check_product_or_sum(first_given2, second_given2)
+print("Given 2:","\nThe result is ", result)
